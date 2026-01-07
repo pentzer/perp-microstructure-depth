@@ -1,0 +1,21 @@
+{
+  "raw_file": "C:\\Users\\pault\\market_depth\\perp-market-microstructure-research-main\\data\\binance\\BTCUSDT\\raw\\deltas_utcmin_29462613.jsonl",
+  "normalized_file": "C:\\Users\\pault\\market_depth\\perp-market-microstructure-research-main\\data\\binance\\BTCUSDT\\normalized\\deltas_utcmin_29462613.fp.jsonl",
+  "prices_file": "C:\\Users\\pault\\market_depth\\perp-market-microstructure-research-main\\data\\binance\\BTCUSDT\\prices\\deltas_utcmin_29462613.prices.jsonl",
+  "created_at_unix": 1767756857,
+  "stats": {
+    "raw_lines": 586,
+    "kept_lines": 586,
+    "bad_json": 0,
+    "skipped_schema": 0,
+    "normalize_errors": 0,
+    "continuity_ok": false,
+    "gaps": 290,
+    "first_gap": {
+      "prev_u": 9617733610640,
+      "U": 9617733610659,
+      "u": 9617733635831,
+      "line": 2
+    }
+  }
+}
